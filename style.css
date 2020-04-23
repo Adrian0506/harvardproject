@@ -15,3 +15,15 @@ div {
 pword {
     text-align:center;
 }
+
+ul {
+    text-align: center;
+    color: red;
+}
+
+h4 {
+    position: fixed;     
+    text-align: center;    
+    bottom: 0px; 
+    width: 100%;
+}
